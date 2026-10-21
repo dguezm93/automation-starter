@@ -13,7 +13,7 @@ authors = [{name = "dguezm93"}]
 dependencies = []
 
 [project.optional-dependencies]
-dev = ["ruff==0.17.0"]
+dev = ["ruff==0.17.1"]
 
 [project.scripts]
 automation-starter = "automation_starter.cli:main"
